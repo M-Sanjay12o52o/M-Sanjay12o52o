@@ -49,13 +49,13 @@ I'm a passionate Full Stack Developer with expertise in MERN stack development u
 
 <!-- Add more projects as needed -->
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
-![Sanjay Achar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayachar&show_icons=true&theme=dark)
+![Sanjay Achar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayachar&show_icons=true&theme=dark) -->
 
-## Top Languages
+<!-- ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayachar&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayachar&layout=compact&theme=dark) -->
 
 ## Let's Connect
 
