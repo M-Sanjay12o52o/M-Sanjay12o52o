@@ -8,7 +8,7 @@ I'm a passionate Full Stack Developer with expertise in MERN stack development u
 - 🌱 I’m currently learning more about GraphQL and serverless architecture.
 - 💬 Ask me about JavaScript, TypeScript, React, Node.js, MongoDB, Express, or anything related to web development!
 - 📫 How to reach me: [Email](mailto:msnjy12o52o@gmail.com) | [LinkedIn](https://www.linkedin.com/in/m-sanjay-achar) | [Twitter](https://twitter.com/msanjay12o5)
-- 😄 Pronouns: He/Him
+<!-- - 😄 Pronouns: He/Him -->
 
 ## Tech Stack
 
