@@ -1,6 +1,6 @@
 # Hi there, I'm Sanjay Achar! 👋
 
-- 📫 How to reach me: [Email](mailto:msnjy12o52o@gmail.com) | [LinkedIn](https://www.linkedin.com/in/m-sanjay-achar) | [Twitter](https://twitter.com/msanjay12o5)
+- 📫 How to reach me: [Email](mailto:m.sanjayachar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/m-sanjay-achar) | [Twitter](https://twitter.com/msanjay12o5)
 
 ## Projects
 
