@@ -25,7 +25,3 @@
 <!-- ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayachar&layout=compact&theme=dark) -->
-
-## Let's Connect
-
-Feel free to connect with me or explore my repositories! 😊
